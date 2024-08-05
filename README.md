@@ -34,7 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
  
-### Other Knowledge:
+### Basic Knowledge:
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=C%2B%2B&&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   
