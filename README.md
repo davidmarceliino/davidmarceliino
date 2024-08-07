@@ -42,9 +42,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=davidmarceliino&style=for-the-badge&color=orange" alt=""/>
