@@ -11,6 +11,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow&labelColor=0D1117)
+
  
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
@@ -20,16 +22,15 @@
 
  
 ### Basic Knowledge:
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=C%2B%2B&&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117&textColor=0D1117)
+![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117&textColor=0D1117)
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)
+
+
+
+
 
   
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
-
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=davidmarceliino&style=for-the-badge&color=orange" alt=""/>
-</div>
-
